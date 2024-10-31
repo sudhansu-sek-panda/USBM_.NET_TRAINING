@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class task6
+    public class task6
     {
+        //public task6()
+        //{
+        //    Console.WriteLine("This is a Constructor");
+        //}
+        public void show()
+        {
+            Console.WriteLine("This is a method :) ");
+        }
     }
 }

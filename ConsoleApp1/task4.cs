@@ -26,7 +26,7 @@ namespace ConsoleApp1
             }
             else
             {
-                { Console.WriteLine("The strings are unequal"); }
+                Console.WriteLine("The strings are unequal"); 
             }
         }
     }

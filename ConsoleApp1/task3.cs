@@ -25,7 +25,7 @@ namespace ConsoleApp1
                 }
 
             }
-            Console.WriteLine("Sum of Odd number is"+sum);
+            Console.WriteLine("Sum of Odd number is  "+sum);
         }
     }
 }
