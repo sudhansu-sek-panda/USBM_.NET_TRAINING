@@ -36,6 +36,6 @@ EXEC SaveBooksInfo @Title = 'War and Peace ', @Author = 'Leo Tolstoy ', @Genre =
 
 select * from LibraryManagementSystem.dbo.Book;
 select * from Book;
-commit;
+
 
 drop table Book;
